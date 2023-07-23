@@ -1,2 +1,2 @@
-# Wirin-SSD
-We have to construct an automated self driving car. I got the task of implementing Single Shot detector customised with the wirin dataset and to improve the detection and tracking accuracy and to finally integrate it with the car itself via an app.
+# Object Detection using SSD
+This project involves the use of text-graph version of SSD to detect and classify objects according to the COCO dataset and achieves high degree of accuracy.
